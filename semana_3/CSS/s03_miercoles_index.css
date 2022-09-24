@@ -1,0 +1,51 @@
+/* estilitos de botoncitos */
+
+.sct-oscuro {
+    background: #2C3A47;
+    height: 50vh;
+}
+
+.sct-clara {
+    background: #fff;
+    height: 50vh;
+}
+
+.btn-oscuro {
+    background: #6d214F;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    height: 40px;
+    width: 150px;
+}
+
+.btn-oscuro:hover {
+    background: #B33771;
+    cursor: pointer;
+}
+
+.btn-claro {
+    background: transparent;
+    border: 2px solid #CAD3C8;
+    border-radius: 5px;
+    color: #cad3c8;
+    height: 40px;
+    width: 150px;
+}
+
+.btn-claro:hover {
+    color: #fff;
+}
+
+
+/* Estilos de header principal */
+
+#header-principal {
+    background: black;
+    height: 10vh;
+}
+
+#header-principal nav a {
+    color: white;
+    text-decoration: none;
+}
